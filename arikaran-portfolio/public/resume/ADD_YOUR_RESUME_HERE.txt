@@ -1,0 +1,5 @@
+Add your actual resume PDF to this folder and name it:
+Arikaran_M_Resume.pdf
+
+The website's Download Resume buttons expect:
+ /resume/Arikaran_M_Resume.pdf
